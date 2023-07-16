@@ -1,5 +1,7 @@
 <div align="center">
-	<img src="./src/ascii.svg" width="75%" height="100" alt="ASCII-ART">
+<a>
+	<img src="./src/ascii.svg" width="600" height="100" alt="ASCII-ART">
+</a>
 </div>
 
 <p align="center">
