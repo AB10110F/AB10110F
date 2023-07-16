@@ -1,6 +1,6 @@
 <div align="center">
 <a>
-	<img src="./src/ascii.svg" width="600" height="100" alt="ASCII-ART">
+	<img src="./src/ascii.svg" width="700" height="130" alt="ASCII-ART">
 </a>
 </div>
 
