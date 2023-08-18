@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=2FC4F7&center=false&vCenter=true&width=280&lines=%E2%9D%AF+Hi+my+name+is+Bryant;%E2%9D%AF+Hope+we+get+along" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=ffffff&center=false&vCenter=true&width=280&lines=%E2%9D%AF+Hi+my+name+is+Bryant;%E2%9D%AF+Hope+we+get+along" alt="Typing SVG" /></a>
 </div>
 
 ```ts
@@ -22,7 +22,7 @@ André on B2015 from Nowhere
  ❯ info
 
  User:                        Bryant
- Languages:                   Spanish, English, Russian
+ Languages:                   Spanish, English
  Programming Languages:       C++, TS, Go, Python, PHP
  Frameworks:                  Next.JS, Angular
  Hobbies:                     Calligraphy, Drawing, Pixel Art
@@ -30,5 +30,5 @@ André on B2015 from Nowhere
 ```
 
 <div align="center">
-		<img src="./src/dragon.svg" width="400" height="200" alt="ASCII-ART">
+		<img src="./src/segmentation.gif" width="200" height="200" alt="ASCII-ART">
 </div>
